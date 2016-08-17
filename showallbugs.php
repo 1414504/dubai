@@ -1,4 +1,3 @@
-<?php
 $con=new mysqli("", "","","");
 $sql= "select * from bug";
 $result=$con->query($sql);
@@ -24,6 +23,6 @@ if(mysqli_num_rows($result)){
         <?php echo $row['bugsummary']  ?>
     </div>
 </div>
-<?php
+<?php?>
     }
 }
