@@ -6,24 +6,24 @@ $sql= "select * from bug WHERE bugcategory = $cat";
 $result=$con->query($sql);
 $con->close();
 
-if(mysqli_num_rows($result)){
-    while($row=mysqli_fetch_array($result){
+if(mysqli_num_rows($result)>0){
+    while($row=mysqli_fetch_array($result)){
         ?>
 <div class="row">
     <div class="col-md-6">
-        <?php echo $row['bugname']  ?>
+        <?php echo $row['bug_name'];  ?>
     </div>
     </div>
 
     <div class="row">
         <div class="col-md-6">
-            <?php echo $row['bugcategory']  ?>
+            <?php echo $row['bug_category'];  ?>
         </div>
     </div>
 
     <div class="row">
         <div class="col-md-6">
-            <?php echo $row['bugsummary']  ?>
+            <?php echo $row['bug_summary'];  ?>
         </div>
     </div>
 <?php
