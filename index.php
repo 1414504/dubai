@@ -10,8 +10,8 @@
 <body>
 
 <div class="container">
-    <div class="row">
-        <div class="col-md-3" style="height: 140px">
+    <div class="row" style="background-color: "lightgreay";>
+        <div class="col-md-3" style="height: 140px;">
             <img src="image/rose.jpg" style="height: 140px">
         </div>
         <div class="col-lg-9" style="height: 140px">
@@ -20,6 +20,17 @@
         </div>
 
     </div>
+
+    <div class="row">
+        <div class="col-md-4" style="min-height: 400px">
+
+        </div>
+
+
+        <div class="col-md-8" style="min-height: 400px"</div>
+
+    </div>
+
 </div>
 
 </body>
