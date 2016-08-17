@@ -32,7 +32,7 @@
 
 
         <div class="col-md-8" style="min-height: 400px"</div>
-<?php include "form.php"; ?>
+<?php include "form.php"; ?><br><br>
 <?php include "showallbugs.php"; ?>
 <?php include "insertbug.php"; ?>
 <?php include "bugcategory.php"; ?>
