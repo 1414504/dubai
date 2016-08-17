@@ -1,4 +1,4 @@
-$con=new mysqli("", "","","");
+$con=new mysqli("ap-cdbr-azure-east-c.cloudapp.net", "b1236d751c9714","41e55854","acsm_dd5dc4ba52b59d7");
 $sql= "select * from bug";
 $result=$con->query($sql);
 $con->close();

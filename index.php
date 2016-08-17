@@ -32,6 +32,7 @@
 
 
         <div class="col-md-8" style="min-height: 400px"</div>
+
     </div>
 
 </div>
