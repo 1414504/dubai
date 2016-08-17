@@ -11,7 +11,7 @@
 
 <div class="container">
     <div class="row" style="background-color: "lightgreay";>
-        <div class="col-md-3" style="height: 140px; background-color: #101010">
+        <div class="col-md-3" style="height: 140px; background-color:"lightgray ">
             <img src="image/rose.jpg" style="height: 140px">
         </div>
         <div class="col-lg-9" style="height: 140px">
