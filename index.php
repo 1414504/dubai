@@ -24,7 +24,7 @@
     <div class="row" style="margin-top: 10px">
         <div class="col-md-4" style="min-height: 400px">
             <br>
-            <a href="?cat=windows" style="text-align: left; margin-bottom: 10px"; class="btn btn-default form-control">Windows</a>
+            <a href="showallbugs.php?cat=windows" style="text-align: left; margin-bottom: 10px"; class="btn btn-default form-control">Windows</a>
             <a href="?cat=android" style="text-align: left; ; margin-bottom: 10px" class="btn btn-default form-control">Android</a>
             <a href="?cat=ios" style="text-align: left" class="btn btn-default form-control">IOS</a>
 
