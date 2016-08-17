@@ -23,6 +23,8 @@
 
     <div class="row">
         <div class="col-md-4" style="min-height: 400px">
+            <br>
+            <a href="?cat=windows" style="text-align: left" class="btn btn-default form-control">Windows</a>
 
         </div>
 
