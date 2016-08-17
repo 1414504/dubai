@@ -10,8 +10,8 @@
 <body>
 
 <div class="container">
-    <div class="row" style="background-color: "lightgreay";>
-        <div class="col-md-3" style="height: 140px; background-color:"lightgray ">
+    <div class="row" style="background-color: "pink">
+    <div class="col-md-3" style="height: 140px;">
             <img src="image/rose.jpg" style="height: 140px">
         </div>
         <div class="col-lg-9" style="height: 140px">
